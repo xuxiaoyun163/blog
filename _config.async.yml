@@ -1,0 +1,11 @@
+theme:
+  switch: true
+  default: style-light # style-light style-dark
+
+# 配置文章
+toc:
+  enable: true
+  list_number: true
+  post_title: false
+  max_depth: 3
+  min_depth: 1
